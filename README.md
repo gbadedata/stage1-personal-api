@@ -50,4 +50,4 @@ uvicorn main:app --host 127.0.0.1 --port 8001
 
 ## Live URL
 
-To be updated after deployment.
+http://13.43.217.25
